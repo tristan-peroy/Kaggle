@@ -13,4 +13,7 @@ Notebooks from Kaggle competitions / projects:
 
 4) Student Health Risk
    - Multiclass classification of whether a student is at-risk, unhealthy or fit based on categorical and numerical data. I used an ensemble model combining CatBoost and LightGBM
+  
+5) Autonomous Agent Prediction
+ - Creating an autonomous agent that can make a submission automatically to a kaggle competition, specifically in the context of binary classification.
      
